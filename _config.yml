@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://quentchangeat.github.io/"
+url: "https://Mael-Voyer.github.io/"
 # Use following baseurl for local hosting
 baseurl: ""
 # Use this for cmu hosting
@@ -17,7 +17,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Quentin Changeat
+title: Maël Voyer
 
 # Short description of your site
 description: Academic website
@@ -41,17 +41,17 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile2.png"
+avatar: "/img/profil.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Quentin Changeat
-  email: "quentin.changeat18@ucl.ac.uk"
-  github: QuentChangeat   # eg. daattali
-  linkedin: quentin-changeat  # eg. daattali
+  name: Maël Voyer
+  email: "mael.voyer@cea.fr"
+  github: Mael-Voyer   # eg. daattali
+
 
 
 # Select which links to show in the footer
@@ -62,7 +62,7 @@ footer-links-active:
   twitter: false
   google-plus: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -86,7 +86,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-129059882-1"
+#google_analytics: "UA-129059882-1"
 
 # Facebook App ID
 # fb_app_id: ""
