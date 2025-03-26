@@ -4,6 +4,7 @@ layout: page
 title: Maël Voyer
 subtitle: Commissariat à l'énergie atomique (CEA) - Paris-Cité University
 css: /custom/main.css
+
 ---
 
 Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exoplanet atmospheres and improving the data reduciton for JWST.
