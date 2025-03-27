@@ -17,7 +17,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Maël Voyer
+title: Alexis Blaise
 
 # Short description of your site
 description: Academic website
@@ -48,9 +48,9 @@ avatar: "/img/profil.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Maël Voyer
-  email: "mael.voyer@cea.fr"
-  github: Mael-Voyer   # eg. daattali
+  name: Alexis Blaise
+  email: "alexis.blaise@cea.fr"
+  github: AlBlPro   # eg. daattali
 
 
 
