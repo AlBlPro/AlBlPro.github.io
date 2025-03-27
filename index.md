@@ -1,17 +1,13 @@
 ---
 bigimg: /img/trappist1f.jpg
 layout: page
-title: Maël Voyer
+title: Alexis Blaise
 subtitle: Commissariat à l'énergie atomique (CEA) - Paris-Cité University
 css: /custom/main.css
 
 ---
 
-Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exoplanet atmospheres and improving the data reduciton for JWST.
-
----
-
-### PAPER OUT: A COLD EXOPLANET AROUND A WHITE DWARF ! [10.3847/2041-8213/adbd46](https://iopscience.iop.org/article/10.3847/2041-8213/adbd46)
+Hey, I am Alexis a PhD student at CEA in Saclay. I focus on the properties of the Sun.
 
 ---
 
