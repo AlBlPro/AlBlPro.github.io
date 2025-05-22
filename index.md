@@ -11,7 +11,7 @@ Hey, I am Alexis a PhD student at CEA in Saclay in solar physics in the lab : La
 My PhD research focuses on solar eruptions which are transient events releasing energy up $10^{32}$ erg through magnetic reconnexion and various phenomena . The releasing process is still an open-field to understand because we can't measure the magnetic and pressure forces at the core of the flaring region.\
 Numerical Simulations provide a good framework to modelize these events. I'm currently using two types of simulations :
   - MHD simulations
-  - Non-linear force free extrapolation \
+  - Non-linear force free extrapolation \.
 I'm using MHD simulations to reproduce the behaviour of the magnetic structures at the surface of the Sun when they erupt and to understand how the magnetic stress is release by magnetic reconnection.\
 NLFF extrapolations are based on the force-free assumption. It's supposed that in the solar corona, magnetic, pressure and gravity forces are balancing each other.\
 With observational date of the vectorial magnetic field of Sun's surface, it provides us enough constrain to calculate the magnetic field from the photosphere to the solar corona.\
