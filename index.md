@@ -2,7 +2,7 @@
 bigimg: /img/EUI_full_disk_304A.jpg
 layout: page
 title: Alexis Blaise
-subtitle: PhD student at Commissariat à l'énergie atomique (CEA) / Institut d'astrophysique Spatiale (IAS) \
+subtitle: PhD student at Commissariat à l'énergie atomique (CEA) / Institut d'astrophysique Spatiale (IAS)
 Paris-Saclay University
 css: /custom/main.css
 
