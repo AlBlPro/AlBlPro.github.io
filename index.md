@@ -26,7 +26,7 @@ My research interests include:
 - Photospheric Magnetic Flux Emergence
 - Active Regions
 - Physics-Informed Neural Network (PINN)
-- Magnetic field Extrapolation \
+- Magnetic field Extrapolation 
 
 ---
 
@@ -53,7 +53,7 @@ Paris-Saclay University, Orsay
 ### Space Telescope Instrument Used 
 
 - Atmospheric Imaging Assembly (AIA/SDO)
-- Helioseismic and Magnetic Imager (HMI/SDO
+- Helioseismic and Magnetic Imager (HMI/SDO)
 - Spectrometer Telescope for Imaging X-rays (STIX/SolO)
 - Extreme Ultraviolet Imager (EUI/SolO)
 
@@ -73,7 +73,7 @@ Paris-Saclay University, Orsay
 ### Contact
 Email : alexis.blaise@cea.fr     <br />
 PhD student <br />
-PhD student representative at ED127 (grad school)
+PhD student representative at ED127 (grad school) \
 Astrophysics Department, CEA & Paris-Saclay University <br />
 Orme des meirisiers<br />
 Gif-sur-Yvette <br />
