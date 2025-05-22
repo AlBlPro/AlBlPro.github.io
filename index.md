@@ -8,7 +8,7 @@ css: /custom/main.css
 ---
 
 Hey, I am Alexis a PhD student at CEA in Saclay in solar physics in the lab : Laboratoire Dynamique des Exoplanètes, des Étoiles et de leur Environnement (LDE3) in October 2023. \n
-My PhD research focuses on solar eruptions which are transient events releasing energy up $10^{32} erg through magnetic reconnexion and various phenomena . The releasing process is still an open-field to understand because we can't measure the magnetic and pressure forces at the core of the flaring region.\n
+My PhD research focuses on solar eruptions which are transient events releasing energy up $10^{32}$ erg through magnetic reconnexion and various phenomena . The releasing process is still an open-field to understand because we can't measure the magnetic and pressure forces at the core of the flaring region.\n
 Numerical Simulations provide a good framework to modelize these events. I'm currently using two types of simulations :
   - MHD simulations
   - Non-linear force free extrapolation \n
