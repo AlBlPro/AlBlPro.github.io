@@ -25,11 +25,11 @@ My research interests include:
 - Photospheric Magnetic Flux Emergence
 - Active Regions
 - Physics-Informed Neural Network (PINN)
-- Magnetic field Extrapolation
+- Magnetic field Extrapolation \. 
 
 ---
 
-## Curriculum Vitae
+### Curriculum Vitae
 2023-2026
 **PhD Thesis : 3D modelling and observation of solar eruptions during Solar Orbiter Era**
 CEA-Saclay / Institut d'Astrophysique de Paris
@@ -49,14 +49,14 @@ Physics & Chemistry
 Paris-Saclay University, Orsay
 
 ---
-## Space Telescope Instrument Used 
+### Space Telescope Instrument Used 
 
 - Atmospheric Imaging Assembly (AIA/SDO)
 - Helioseismic and Magnetic Imager (HMI/SDO
 - Spectrometer Telescope for Imaging X-rays (STIX/SolO)
-- Extreme Ultraviolet Imager (EUI/SolO)
+- Extreme Ultraviolet Imager (EUI/SolO) \. 
 ---
-## Programming Languages & packages used
+### Programming Languages & packages used
 
 - Python
 - C/C#
@@ -64,7 +64,7 @@ Paris-Saclay University, Orsay
 - Pyvista (3D Visualisation)
 - JHelioViewer
 - Sunpy, Astropy, (astrophysics packages)
-- Torch, 
+- Torch \. 
 ---
 
 ### Contact
