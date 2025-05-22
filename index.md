@@ -7,14 +7,14 @@ css: /custom/main.css
 
 ---
 
-Hey, I am Alexis a PhD student at CEA in Saclay in solar physics in the lab : Laboratoire Dynamique des Exoplanètes, des Étoiles et de leur Environnement (LDE3) in October 2023. \\ 
-My PhD research focuses on solar eruptions which are transient events releasing energy up $10^{32} erg through magnetic reconnexion and various phenomena . The releasing process is still an open-field to understand because we can't measure the magnetic and pressure forces at the core of the flaring region.\\
+Hey, I am Alexis a PhD student at CEA in Saclay in solar physics in the lab : Laboratoire Dynamique des Exoplanètes, des Étoiles et de leur Environnement (LDE3) in October 2023. \n
+My PhD research focuses on solar eruptions which are transient events releasing energy up $10^{32} erg through magnetic reconnexion and various phenomena . The releasing process is still an open-field to understand because we can't measure the magnetic and pressure forces at the core of the flaring region.\n
 Numerical Simulations provide a good framework to modelize these events. I'm currently using two types of simulations :
   - MHD simulations
-  - Non-linear force free extrapolation \\
-I'm using MHD simulations to reproduce the behaviour of the magnetic structures at the surface of the Sun when they erupt and to understand how the magnetic stress is release by magnetic reconnection.\\
+  - Non-linear force free extrapolation \n
+I'm using MHD simulations to reproduce the behaviour of the magnetic structures at the surface of the Sun when they erupt and to understand how the magnetic stress is release by magnetic reconnection.\n
 NLFF extrapolations are based on the force-free assumption. It's supposed that in the solar corona, magnetic, pressure and gravity forces are balancing each other.
-With observational date of the vectorial magnetic field of Sun's surface, it provides us enough constrain to calculate the magnetic field from the photosphere to the solar corona.\\
+With observational date of the vectorial magnetic field of Sun's surface, it provides us enough constrain to calculate the magnetic field from the photosphere to the solar corona.\n
 These simulations can be visualised through 3D reconstruction of the magnetic field lines and be compared to the EUV emissions. I used solar data from Solar Dynamic Observatory observations which provide enormous amount of solar eruptions to observe and modelize.
 
 ---
